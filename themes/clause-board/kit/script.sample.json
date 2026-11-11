@@ -1,0 +1,22 @@
+{
+  "title": "India's Emergency That Was Never Used #shorts",
+  "voice": "am_michael",
+  "speed": 1.1,
+  "lead": 0.4,
+  "outro": 2.4,
+  "gap": 0.25,
+  "music": "bed",
+  "sources": [
+    "Constitution of India, Article 360 (financial emergency; 360(2)(c) approval by both Houses within two months; 360(4)(b) reduction of salaries incl. Supreme Court and High Court judges) - legislative.gov.in",
+    "Financial emergency has never been proclaimed in India - Vajiram & Ravi, 'Financial Emergency, Article 360' (vajiramandravi.com/upsc-exam/financial-emergency/)",
+    "PYQ: UPSC Prelims 2007, 'Consider the following statements in respect of financial emergency under Article 360...' answer (a) 1 only - pmfias.com/financial-emergency-article-360-pyq-2007/",
+    "PYQ: UPSC Mains 2018 GS-II, 'Under what circumstances can the Financial Emergency be proclaimed by the President of India?...' - superkalam.com and dalvoy.com UPSC Mains 2018 GS-II archives"
+  ],
+  "lines": [
+    { "text": "India has an emergency it has never used, not even once.", "caps": "AN *EMERGENCY | *NEVER USED | NOT EVEN *ONCE" },
+    { "text": "Article three sixty, the Financial Emergency.", "caps": "ARTICLE *360 | THE *FINANCIAL | *EMERGENCY" },
+    { "text": "Under it, the President can even cut the salaries of judges.", "caps": "THE *PRESIDENT | CAN EVEN *CUT | SALARIES OF *JUDGES" },
+    { "text": "UPSC asked this in Prelims two thousand seven and Mains twenty eighteen.", "caps": "UPSC *ASKED | PRELIMS *2007 | AND MAINS *2018" },
+    { "text": "So, which option is correct? Tell me in the comments.", "caps": "WHICH IS *CORRECT? | TELL ME IN THE *COMMENTS" }
+  ]
+}
