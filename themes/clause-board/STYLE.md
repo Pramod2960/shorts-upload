@@ -1,4 +1,4 @@
-# Clause Board — QuickInfo theme (candidate)
+# Clause Board — QuickInfo theme (approved)
 
 Flat index cards on a dark navy study board. Built for **polity, constitution articles, acts, constitutional/statutory
 bodies, government schemes & reports** — topics that are really "a clause + a number + a condition", which Inside Out
