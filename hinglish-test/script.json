@@ -1,0 +1,30 @@
+{
+  "title": "Gum Nigal Liya Toh Kya Hoga?",
+  "voice": "sarvam",
+  "sarvam_model": "bulbul:v3",
+  "sarvam_speaker": "shubh",
+  "sarvam_pace": 1.1,
+  "fallback_voice": "hm_omega",
+  "speed": 1.05,
+  "lead": 0.4,
+  "outro": 0.9,
+  "gap": 0.25,
+  "music": "bed",
+  "sources": [
+    "Mayo Clinic, 'Is it true that gum stays in your stomach for seven years if you swallow it?' (gum base is not digested; it passes through, usually within days)",
+    "Milov et al., Pediatrics 1998, 'Chewing gum bezoars of the gastrointestinal tract' (large amounts swallowed often, mostly by children, can cause blockages)"
+  ],
+  "lines": [
+    { "text": "Kya hoga agar aap chewing gum swallow kar lo?", "say": "क्या होगा अगर आप chewing gum swallow कर लो?", "caps": "KYA *HOGA | AGAR AAP *GUM | *SWALLOW KAR LO?" },
+    { "text": "Ye throat se slide hoke seedha stomach mein pahunchti hai,", "say": "ये throat से slide होके, सीधा stomach में पहुँचती है,", "caps": "YE *THROAT SE | *SLIDE HOKE | SEEDHA *STOMACH" },
+    { "text": "jahan strong acid iss par work karna shuru karta hai.", "say": "जहाँ strong acid इस पर work करना शुरू करता है।", "caps": "JAHAN STRONG *ACID | *WORK SHURU" },
+    { "text": "Sugar aur flavour jaldi ghul jaate hain, par gum base ki kahani alag hai.", "say": "Sugar और flavour जल्दी घुल जाते हैं, पर gum base की कहानी अलग है।", "caps": "*SUGAR AUR | FLAVOUR *GHUL | PAR GUM *BASE | KI KAHANI *ALAG" },
+    { "text": "Ye ek rubbery polymer hai, jise body tod hi nahi paati.", "say": "ये एक rubbery polymer है, जिसे body तोड़ ही नहीं पाती।", "caps": "RUBBERY *POLYMER | JISE *BODY | *TOD NAHI PAATI" },
+    { "text": "Toh kya ye saat saal pet mein rehti hai? Nahi, ye ek myth hai.", "say": "तो क्या ये सात साल पेट में रहती है? नहीं, ये एक myth है।", "caps": "TOH KYA *7 SAAL | PET *MEIN? | *NAHI | YE EK *MYTH" },
+    { "text": "Aapka gut isse aage dhakelta rehta hai,", "say": "आपका gut इसे आगे धकेलता रहता है,", "caps": "AAPKA *GUT | AAGE *DHAKELTA" },
+    { "text": "aur kuch hi dino mein ye bahar nikal jaati hai.", "say": "और कुछ ही दिनों में ये बाहर निकल जाती है।", "caps": "KUCH HI *DINO | MEIN *YE | *BAHAR NIKAL" },
+    { "text": "Lekin agar aap ek saath bahut saara gum nigal lo,", "say": "लेकिन अगर आप एक साथ बहुत सारा gum निगल लो,", "caps": "LEKIN *AGAR | EK *SAATH | BAHUT SAARA *GUM" },
+    { "text": "toh ye jamkar aapka gut block kar sakti hai.", "say": "तो ये जमकर आपका gut block कर सकती है।", "caps": "TOH YE *JAMKAR | GUT *BLOCK | KAR *SAKTI HAI" },
+    { "text": "Isliye behtar hai, thook do!", "say": "इसलिए बेहतर है, थूक दो!", "caps": "ISLIYE *BEHTAR HAI | *THOOK DO!" }
+  ]
+}
