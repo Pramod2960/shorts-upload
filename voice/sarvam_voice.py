@@ -17,6 +17,7 @@ from scipy.signal import resample_poly
 
 SR = 24000
 HERE = Path(__file__).resolve().parent
+USAGE = {'chars': 0}  # characters sent to Sarvam in this run (also counted when a later call fails)
 
 
 def trim(x, thr=0.008):
@@ -49,6 +50,7 @@ def sarvam_say(S):
     model, speaker, pace = S.get('sarvam_model', 'bulbul:v3'), S.get('sarvam_speaker', 'shubh'), S.get('sarvam_pace', 1.0)
 
     def say(text):
+        USAGE['chars'] += len(text)  # Sarvam bills per character sent (v3: Rs 3 per 1,000)
         r = client.text_to_speech.convert(text=text, language_code='hi-IN', model=model, speaker=speaker,
                                           pace=pace, speech_sample_rate=SR, output_audio_codec='wav')
         sr, raw = wavfile.read(io.BytesIO(base64.b64decode(''.join(r.audios))))
@@ -108,8 +110,10 @@ def main():
     (P / 'data').mkdir(exist_ok=True)
     wavfile.write(P / 'data/narration.wav', SR, (y * 32767).astype(np.int16))
     dur = len(y) / SR
-    (P / 'data/lines.json').write_text(json.dumps({'duration': round(dur, 3), 'voice': voice, 'speed': S.get('sarvam_pace', 1.0), 'lines': lines}, indent=1))
+    (P / 'data/lines.json').write_text(json.dumps({'duration': round(dur, 3), 'voice': voice, 'speed': S.get('sarvam_pace', 1.0),
+                                                   'sarvam_chars': USAGE['chars'], 'lines': lines}, indent=1))
     print(f'data/narration.wav ({dur:.2f} s, {voice}) + data/lines.json. Next: words.py')
+    print(f'sarvam_chars: {USAGE["chars"]} (~Rs {USAGE["chars"] * 3 / 1000:.2f} at bulbul:v3 rates)')
 
 
 if __name__ == '__main__':

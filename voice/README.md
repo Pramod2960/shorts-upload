@@ -18,4 +18,4 @@ script.json extras: `"sarvam_model": "bulbul:v3"`, `"sarvam_speaker": "shubh"`, 
 `"fallback_voice": "hm_omega"`. Each line: `text` = Roman Hinglish (captions + word timing),
 `say` = what is spoken (Devanagari with English words in Latin, e.g. "ये question UPSC में तीन बार आया है।"),
 `caps` = Roman Hinglish caption chunks, one `*` yellow word each.
-The script prints `voice: sarvam:...` or `kokoro:...` in data/lines.json: report which one was used.
+data/lines.json has "voice" (sarvam:... or kokoro:...) and "sarvam_chars" (characters billed this run; bulbul:v3 = Rs 3 per 1,000). There is no balance API: the dashboard (indus.sarvam.ai, Settings -> Billing) is the only exact source.
