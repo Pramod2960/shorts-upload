@@ -1,0 +1,10 @@
+# Published Shorts
+> Sarvam credits (estimate): Rs 97.00 left | updated 2026-11-14
+- 2026-11-11 | Removal of the Chief Election Commissioner (Art. 324(5)) | paper-atlas | Can Anyone Fire India's Election Chief? | https://www.youtube.com/watch?v=LQMGiQE8LUo
+- 2026-11-11 | Cyclone naming in the North Indian Ocean (Cyclone Murasu) | paper-atlas | Why Was This Cyclone Named After a Drum? #shorts | https://www.youtube.com/watch?v=FFL_0ZmMFRc
+- 2026-11-11 | Delhi smog: PM2.5 path into lungs/blood + India's AQI pollutants (GRAP Stage 3) | inside-out | Where Does Delhi's Smog Go Inside You? #shorts | https://www.youtube.com/watch?v=Tp12KqV1JHE
+- 2026-11-12 | slot 08:00 | Joint sitting of Parliament (Art. 108): deadlock, Speaker presides, simple majority, only 3 sittings, not for Money/Amendment Bills | clause-board | When Lok Sabha Says Yes, Rajya Sabha Says No #shorts | https://www.youtube.com/watch?v=TnYrUMG86mQ
+- 2026-11-13 | slot 08:00 | Rainbow formation: refraction, dispersion, internal reflection, 42° angle, sun behind observer, reversed secondary bow | inside-out | Why Is the Sun Always Behind a Rainbow? #shorts | https://www.youtube.com/watch?v=vp-c-JQPmO8
+- 2026-11-13 | slot 20:00 | Birsa Munda & the Ulgulan (1899-1900): Dharti Aaba, Ranchi jail at 24, Chotanagpur Tenancy Act 1908, Janjatiya Gaurav Divas 15 Nov | paper-atlas | Why Does India Celebrate Him Every Nov 15? #shorts | https://www.youtube.com/watch?v=hgIxOBXT3CI
+- 2026-11-14 | slot 08:00 | Right to Privacy (Art. 21): word absent from Constitution, M.P. Sharma 1954 & Kharak Singh 1962, Puttaswamy 24 Aug 2017 9-judge unanimous, not absolute (legality/aim/proportionality) | clause-board | Privacy Likha Hi Nahi, Phir Bhi Right Kaise? #shorts | https://www.youtube.com/watch?v=wr27Tp-yZmk
+- 2026-11-14 | slot 20:00 | RBI repo rate mechanism: RBI lends to banks at repo, hike -> costlier loans/EMI -> less spending/demand -> inflation cools (cut = opposite) | inside-out | RBI Ka Ek Number, Aur Badh Gayi Aapki EMI? #shorts | https://www.youtube.com/watch?v=gqjksdV83WE
