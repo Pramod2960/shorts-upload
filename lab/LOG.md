@@ -9,3 +9,7 @@
   UPSC Mains 2018 GS-II (superkalam.com / dalvoy.com). 20.9 s, 1080x1920, 5.5 MB. QA: 3 fix rounds (see NOTES.md).
 - YouTube stats: not read (no stats action enabled in Zapier this run).
 - Status: approved by Pramod on 2026-11-11 (chat).
+
+## 2026-11-13 · QUEUE (interactive chat, no theme built)
+- Pramod asked to add new themes from nafay3d.com's Style Library. He picked 4: Quiz Countdown, Timeline Rail,
+  Math Canvas, Myth or Fact. Specs written to lab/QUEUE.md; the next Content Lab runs build them one per run, in order.
