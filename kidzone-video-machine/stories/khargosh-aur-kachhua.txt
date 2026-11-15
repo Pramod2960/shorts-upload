@@ -1,0 +1,41 @@
+# KidZone story file.
+# Top block = settings. Then one block per scene, separated by a blank line.
+# "img:" line = picture for that scene (English works best). All other lines = what the voice says.
+
+title: खरगोश और कछुआ
+format: long
+voice: hi-IN-SwaraNeural
+rate: -8%
+
+img: A cute cartoon brown monkey with big shiny eyes waving hello, standing in front of a colorful storybook that is opening, bright blue sky with twinkling stars
+नमस्ते बच्चों! KidZone में आपका स्वागत है। आज की कहानी है, खरगोश और कछुआ।
+
+img: A sunny green forest with tall trees, colorful flowers and a small blue pond, a fluffy white rabbit with long pink ears hopping happily
+एक हरे-भरे जंगल में एक खरगोश रहता था। वो बहुत तेज़ दौड़ता था, और उसे इस बात पर बहुत घमंड था।
+
+img: A fluffy white rabbit laughing and pointing at a small green tortoise walking slowly on a forest path, other small animals watching
+एक दिन खरगोश ने एक कछुए को धीरे-धीरे चलते देखा। वो हँसकर बोला, अरे कछुए भाई, तुम तो कितने धीरे चलते हो!
+
+img: A calm smiling green tortoise looking confidently at a surprised fluffy white rabbit in a sunny forest clearing
+कछुए ने मुस्कुराकर कहा, ठीक है खरगोश भाई, चलो हम दोनों दौड़ लगाते हैं। देखते हैं कौन जीतता है।
+
+img: A wise old owl on a tree branch holding a small flag, a fluffy white rabbit and a green tortoise standing side by side at a start line, forest animals cheering
+जंगल के सारे जानवर दौड़ देखने आए। बुद्धिमान उल्लू ने झंडा हिलाया, और दौड़ शुरू हो गई!
+
+img: A fluffy white rabbit running very fast on a winding forest path leaving dust behind, a small green tortoise far behind walking steadily
+खरगोश तेज़ी से दौड़ा और बहुत आगे निकल गया। कछुआ धीरे-धीरे, लेकिन बिना रुके, चलता रहा।
+
+img: A fluffy white rabbit lying under a big shady tree, yawning and closing its eyes, the finish line ribbon visible far away
+खरगोश ने पीछे मुड़कर देखा। कछुआ तो कहीं दिखाई ही नहीं दे रहा था। उसने सोचा, थोड़ी देर आराम कर लेता हूँ। और वो एक पेड़ के नीचे सो गया।
+
+img: A small green tortoise walking steadily past a sleeping fluffy white rabbit under a tree, little Zzz bubbles above the rabbit, warm afternoon light
+उधर कछुआ चलता रहा, चलता रहा। वो सोते हुए खरगोश के पास से भी चुपचाप निकल गया।
+
+img: A happy green tortoise crossing a red and white finish line ribbon, forest animals clapping and cheering, colorful confetti in the air
+जब खरगोश की नींद खुली, तो वो पूरी ताक़त से दौड़ा। लेकिन तब तक बहुत देर हो चुकी थी। कछुआ जीत चुका था!
+
+img: A embarrassed fluffy white rabbit shaking hands with a proud smiling green tortoise, sunset in a beautiful forest
+खरगोश को अपनी ग़लती समझ आ गई। उसने कछुए से माफ़ी माँगी, और दोनों अच्छे दोस्त बन गए।
+
+img: A cute cartoon brown monkey with big shiny eyes holding a glowing star, a colorful storybook beside it, bright blue starry background
+तो बच्चों, इस कहानी से हमें सीख मिलती है, धीरे-धीरे लेकिन लगातार मेहनत करने वाला ही जीतता है। और कभी घमंड नहीं करना चाहिए। कहानी अच्छी लगी तो KidZone को Subscribe ज़रूर करना। फिर मिलेंगे, एक नई कहानी के साथ। बाय बाय!
